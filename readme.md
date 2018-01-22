@@ -1,1 +1,2 @@
-# Je suis le premier test de ce projet.
+# Pour lancer le projet
+- Utiliser la commande : `npm start`
